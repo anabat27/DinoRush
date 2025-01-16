@@ -1,3 +1,1 @@
-# DinoRush
-
-# Will update when finished!
+# DinoRush - Will update when finished!
