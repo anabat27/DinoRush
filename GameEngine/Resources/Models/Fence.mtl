@@ -1,0 +1,422 @@
+# Blender 4.3.2 MTL File: 'None'
+# www.blender.org
+
+newmtl fence
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.003
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.004
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.005
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.007
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.010
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.011
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.012
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.013
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.014
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.015
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.016
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.017
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.018
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.019
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.020
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.021
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.022
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.023
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl fence.024
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd Textures/fence.png
+map_d Textures/fence.png
+
+newmtl metal_baked_2
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.003
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.004
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.005
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.007
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.010
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.011
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.012
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.013
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.014
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.015
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.016
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.017
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.018
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.019
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.020
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.021
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.022
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.023
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
+
+newmtl metal_baked_2.024
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.075472 0.075472 0.075472
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/metal 2 texture.png
+map_Bump -bm 0.418605 Textures/metal 2 texture.png
